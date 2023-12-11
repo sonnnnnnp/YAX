@@ -1,0 +1,8 @@
+{
+    "name": "YAX",
+    "version": "1.0.0",
+    "permissions": [
+        "https://*/"
+    ],
+    "manifest_version": 3
+}
