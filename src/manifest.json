@@ -1,8 +1,9 @@
 {
     "name": "YAX",
+    "description": "Chrome extension for Yay!",
     "version": "1.0.0",
-    "permissions": [
-        "https://*/"
-    ],
-    "manifest_version": 3
+    "manifest_version": 3,
+    "host_permissions": [
+        "*://*/*"
+    ]
 }
